@@ -1,2 +1,4 @@
-# First Post:
-This is first post
+---
+title: "First Post"
+date: 2024-12-11
+---
